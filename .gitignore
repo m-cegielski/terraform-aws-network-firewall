@@ -1,0 +1,14 @@
+# Compiled files
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+
+# Module directory
+.terraform/
+
+crash.log
+
+# Local overrides
+*override.tf
+
+.DS_Store
